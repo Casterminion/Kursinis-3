@@ -85,7 +85,7 @@ $(document).on("click", ".result p", function(){
 
 <div class="container">
 
-<div class="panel panel-default" style="margin-top:50px">
+<div class="panel panel-default">
   <div class="panel-body">
     <h3>Community forum</h3>
     <hr>
